@@ -12,7 +12,8 @@ Application that will allow users to search through google books based on keywor
 ## Tech
 MongoDB with Mongoose ORM and Apollo Client with Reach front end
 
-##Live Link
-![image](https://user-images.githubusercontent.com/10663977/129662078-5645cf1d-bcda-4f5c-af86-82d0ca8d2cd1.png)
+## Live Link
 
 https://afternoon-forest-82318.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/10663977/129662078-5645cf1d-bcda-4f5c-af86-82d0ca8d2cd1.png)
