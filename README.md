@@ -4,10 +4,10 @@
 Application that will allow users to search through google books based on keyword searh. Also feature login functionality allowing the use of saving favorite books along with viewing saved books collection.
 
 ## Local Installation
-Download and extract zip files to local directory
-Open IDE and navigate to installed directory
-Run npm install
-Dev Mode: npm run develop
+* Download and extract zip files to local directory
+* Open IDE and navigate to installed directory
+* Run npm install
+* Dev Mode: npm run develop
 
 ## Tech
 MongoDB with Mongoose ORM and Apollo Client with Reach front end
